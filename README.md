@@ -22,6 +22,3 @@ cd lima/adm/dist
 
 # License
 GPL, see original License in library as well.
-# Developer/Agent navigation
-- See `AGENT_MAP_COMMANDS_VERBS.md` for a focused map of command/verb internals and a suggested porting workflow.
-
