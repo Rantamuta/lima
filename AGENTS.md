@@ -10,7 +10,7 @@ Do **not** modify runtime/gameplay LPC behavior unless the user explicitly reque
 
 ## Documentation location
 - Place all newly authored documentation under `docs/`.
-- Do not add documentation files elsewhere, except this root `AGENTS.md`.
+- Do not add documentation files elsewhere.
 
 ## Working style
 - Keep changes additive and focused.
