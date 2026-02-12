@@ -79,7 +79,7 @@ Include explicit rules for:
 - ordering if multiple messages emit.
 
 #### 6) Canonical acceptance transcripts (mandatory)
-Provide 8–10 canonical scenarios (for example: look, look-at, take, take-from, help, unknown input, ambiguous input, invalid target).
+Provide 8–10 canonical scenarios (for example: look, look-at, take, take-from, put [direct object] [in / on / under] [indirect object], help, unknown input, ambiguous input, invalid target).
 
 For each scenario include:
 - preconditions,
